@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 200px;
+}
+
+h1 {
+    font-size: 16px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    cursor: pointer;
+    margin: 5px 0;
+    padding: 5px;
+    background-color: black}
